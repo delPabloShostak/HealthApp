@@ -17,7 +17,7 @@ function HomeScreen({ navigation }) {
         color="green"
       />
       <Button
-        title="Профіль"
+        title="Особистий Профіль"
         onPress={() => navigation.navigate('Профіль')}
         color="green"
       />
